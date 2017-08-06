@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>rollupteardown</title>
+    <link href="https://ravipinto.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://ravipinto.github.io/gh-pages" />
+    <updated>2017-08-06T17:36:11+05:30</updated>
+    <author>
+        <name>Ravi Pinto</name>
+    </author>
+    <id>https://ravipinto.github.io/gh-pages</id>
+
+    <entry>
+        <title>Obligatory Hello World</title>
+        <author>
+            <name>Ravi Pinto</name>
+        </author>
+        <link href="https://ravipinto.github.io/gh-pages/obligatory-hello-world.html"/>
+        <id>https://ravipinto.github.io/gh-pages/obligatory-hello-world.html</id>
+
+        <updated>2017-08-06T17:35:40+05:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                This is the first post and has hat-tip to <a href="https://en.wikipedia.org/wiki/Brian_Kernighan">Brian Kernighan</a>, originator of&nbsp;<a href="http://en.wikipedia.org/wiki/Hello_World">"Hello, world!"</a>
+            ]]>
+        </content>
+    </entry>
+</feed>
